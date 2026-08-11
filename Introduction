@@ -1,0 +1,4 @@
+As we all know, people listen to music through radio, television and now android apps like Spotify. But when it comes to music according to the individual's mood, they have to search and scroll for long on those apps which is too time taking.
+Traditional Music Recommendation systems rely heavily on user history, explicit ratings and collaborative filtering which fails eventually. These systems cannot adopt to user's current mood, leading to mismatched music suggestions that may not align with their immediate emotions.
+There Exists a gap in developing intelligent systems that can understand and respond to human emotions in real-time personalized music experiences.
+To reduce this gap, I built an Intelligent Music Recommendation system that analyzes facial expressions to detect emotions in real time for personalized music experiences.
